@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #fdb4d6e1;
+}
+.navbar-brand{
+    color: rgb(240, 41, 140);
+}
+.nav-link{
+    color: rgb(240, 41, 140);
+}
+.nav-link:hover{
+    color: #940045e1;
+}
+.navbar-brand:hover{
+    color: #940045e1;
+}
+.btn{
+    background-color: #db5598;
+    color: #ffff;
+}
+.navbar-toggler{
+    color: black;
+}
+.footer{
+    background-color: #fdb4d6e1;
+    color:rgb(240, 41, 140) ;
+}
